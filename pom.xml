@@ -61,13 +61,13 @@
   
     <mockito.version>3.7.0</mockito.version>
     <assertj.version>3.18.1</assertj.version>
-    <spring.version>5.3.3</spring.version>
+    <spring.version>5.3.14</spring.version>
     <spring.boot.version>2.4.2</spring.boot.version>
-    <spring.security.version>5.4.4</spring.security.version>
+    <spring.security.version>5.5.4</spring.security.version>
     <wicket.version>9.2.0</wicket.version>
-    <wicketstuff.version>9.2.0</wicketstuff.version>
+    <wicketstuff.version>9.8.0</wicketstuff.version>
     <wicket-jquery-ui.version>9.2.0</wicket-jquery-ui.version>
-    <wicket-bootstrap.version>5.0.3</wicket-bootstrap.version>
+    <wicket-bootstrap.version>5.0.5</wicket-bootstrap.version>
     <wicket-jquery-selectors.version>3.0.2</wicket-jquery-selectors.version>
     <wicket-webjars.version>3.0.2</wicket-webjars.version>
     <wicket-spring-boot.version>3.0.4</wicket-spring-boot.version>
@@ -76,7 +76,7 @@
     <uima.version>3.1.1</uima.version>
     <uimafit.version>3.1.0</uimafit.version>
     <slf4j.version>1.7.30</slf4j.version>
-    <log4j.version>2.14.0</log4j.version>
+    <log4j.version>2.17.1</log4j.version>
     <jboss.logging.version>3.4.1.Final</jboss.logging.version>
     <hibernate.version>5.4.15.Final</hibernate.version>
     <hibernate.validator.version>6.1.5.Final</hibernate.validator.version>
