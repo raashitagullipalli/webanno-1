@@ -556,7 +556,7 @@
       <dependency>
         <groupId>io.bit3</groupId>
         <artifactId>jsass</artifactId>
-        <version>5.10.3</version>
+        <version>5.10.5</version>
       </dependency>
       <dependency>
         <groupId>com.github.rjeschke</groupId>
