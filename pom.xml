@@ -74,7 +74,7 @@
     <bootstrap.version>4.5.3</bootstrap.version>
     <dkpro.version>2.2.0</dkpro.version>
     <uima.version>3.1.1</uima.version>
-    <uimafit.version>3.1.0</uimafit.version>
+    <uimafit.version>3.5.0</uimafit.version>
     <slf4j.version>1.7.30</slf4j.version>
     <log4j.version>2.14.0</log4j.version>
     <jboss.logging.version>3.4.1.Final</jboss.logging.version>
